@@ -1,12 +1,12 @@
 # Proyek Akhir PBO
 **Judul PA**
-- Sistem Pasar Eletronik
+- Sistem Pasar Eletronik <br />
 **Deskripsi Singkat**
 - Sistem Pasar Elektronik adalah sistem yang memungkinkan pembeli dan penjual untuk berinteraksi dan melakukan transaksi.
-- Ada tiga jenis pengguna dalam sistem pasar elektronik ini:
+Ada tiga jenis pengguna dalam sistem pasar elektronik ini:
 1. Admin
 2. Pembeli
-3. Penjual
+3. Penjual <br />
 **Anggota Kelompok 1**
 - Ahmad Dhiya Ulhaqi                2109106056
 - Muhammad Hadiseptian Nursukamto   2109106058
